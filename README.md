@@ -1,6 +1,5 @@
-# 个人 HTML 小游戏练习集
-这是我用 HTML、CSS 和原生 JavaScript 实现的小游戏集合，包含经典玩法复刻，适合前端入门参考。
+# 个人小游戏练习集
+这是我的个人小游戏练习集，内容为自己写的游戏demos
 
-
-# Personal HTML Mini-Game Collection
-This is a collection of mini-games I built using HTML, CSS, and vanilla JavaScript. It includes remakes of classic game mechanics, suitable for front-end beginners to reference.
+#Personal Mini Game Collection
+This is my personal collection of mini game practices, containing self-written game demos.
